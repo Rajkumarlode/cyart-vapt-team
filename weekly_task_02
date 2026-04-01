@@ -1,1 +1,9 @@
+vunerability scanning lab:
+
+
+Tools: Nmap.openvas,nikto
+
+Running scans prioritising vulnerabilities and documenting the Results
+
+scanning metasploitable vulnerable machine using nmap
 
